@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
-import { Container } from './Container';
 
+import { Container } from './Container';
 import { ThemeSwitcher } from '../features/ThemeSwitcher';
 import { useCleanup } from '../features/controls/use-cleanup';
 
